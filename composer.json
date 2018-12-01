@@ -1,28 +1,17 @@
 {
-    "name": "codelytv/php-bootstrap",
-    "description": "Starting point if you want to bootstrap a project in PHP following best practices.",
+    "name": "php-clean-architecture",
+    "description": "Clean-Architecture Best-Practices",
     "type": "project",
     "keywords": [
-        "bootstrap",
-        "skeleton",
-        "kata",
-        "TDD",
-        "boilerplate"
+        "clean-architecture",
+        "skeleton"
     ],
-    "homepage": "https://codely.tv",
-    "time": "2018-07-18",
+    "time": "2018-12-01",
     "license": "MIT",
     "authors": [
         {
-            "name": "Javier Ferrer",
-            "email": "javier.ferrer@codely.tv",
-            "homepage": "https://codely.tv",
-            "role": "Developer"
-        },
-        {
-            "name": "Rafa Gómez",
-            "email": "rafa.gomez@codely.tv",
-            "homepage": "https://codely.tv",
+            "name": "Mati Beltramone",
+            "email": "maatisk@gmail.com",
             "role": "Developer"
         }
     ],
